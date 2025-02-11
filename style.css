@@ -1,0 +1,13 @@
+p{
+    color: brown;
+}
+img{
+    width: 500px;
+    height: auto;
+}
+body{
+    text-align: center;
+    font-family: 'Arial';
+    background: azure;
+    color: purple;
+}
